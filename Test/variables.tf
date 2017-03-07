@@ -11,5 +11,6 @@ variable "key_name" {
 	description = "Key name to use"
 }
 variable "dcname" {
+    default = "Jenkins123"
 	description = "The data-center name."
 }
