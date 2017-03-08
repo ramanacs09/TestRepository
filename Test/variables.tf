@@ -1,13 +1,13 @@
 variable "aws_access_key" {
-	default = "AKIAIQUIXA4Z2VZGRH2Q"
+	default = "AKIAI5EB44JO26XDGYCQ"
 }
 
 variable "aws_secret_key" {
-	default = "HlJv5QYQyM1yV287CfNXNocwIA8iCDpKTXMAX+cj"
+	default = "L3oCCP/5IfQVITE0WjFYqhvgX6TVjT1gU+4cuWzY"
 }
 
 variable "key_name" {
-	default = "vlakka_key"
+	default = "chperiya_key"
 	description = "Key name to use"
 }
 variable "dcname" {
